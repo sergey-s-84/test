@@ -2,7 +2,3 @@ It is develop mode
 Trust all
 
 Check
-
-
-
-TEST
