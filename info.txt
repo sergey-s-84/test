@@ -1,14 +1,1 @@
-It is develop mode
-Trust all
-
-Check
-
-
-
-TEST
-
-New changes
-
-ТУЦ2
-
-NEW CHANGES 23.06.2021
+UPDATE FROM GIT HUB (BRANCH TEST) || 
